@@ -1,0 +1,3 @@
+Este solo es un archivo de texto normal.
+
+Contiene texto de prueba para el curso de GIT y GITHUB
